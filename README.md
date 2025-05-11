@@ -1,9 +1,5 @@
-# helloworld
+# astrbot_plugin_BasicFunc
 
-AstrBot 插件模板
+Fatima自用的qq机器人(astrbot)小插件，里面有一些杂七杂八的功能，并持续更新中 <3
 
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+Fatima's own qq robot (astrbot) plugin, which has some simple functions and is continuously updated <3
